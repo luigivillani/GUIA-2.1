@@ -1,1 +1,1 @@
-# Execcio GUIA-2.1
+# Exercicio GUIA-2.1
